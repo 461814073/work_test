@@ -1,0 +1,4 @@
+/home/liu/motion_control/build/CMakeFiles/rebuild_cache.dir
+/home/liu/motion_control/build/CMakeFiles/edit_cache.dir
+/home/liu/motion_control/build/CMakeFiles/pack.dir
+/home/liu/motion_control/build/CMakeFiles/motion_control.dir
